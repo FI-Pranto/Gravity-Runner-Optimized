@@ -3,6 +3,9 @@
 **Gravity Runner** is a fast-paced **2D endless runner** Android game built with Unity. Designed with intuitive one-touch controls and dynamic gravity-switching mechanics, it challenges players to react quickly, avoid obstacles, and collect stars to achieve high scores.
 
 ---
+### App Logo
+![APP Logo](Assets/icon.png)
+
 
 ## 🎮 Gameplay Features
 
